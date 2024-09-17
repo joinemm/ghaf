@@ -1,7 +1,7 @@
 # Copyright 2022-2024 TII (SSRC) and the Ghaf contributors
 # SPDX-License-Identifier: Apache-2.0
 {
-  description = "Ghaf Framework: Documentation and implementation for TII SSRC unSecure Technologies";
+  description = "Ghaf Framework: Documentation and implementation for TII SSRC unSecure Technologies and testing";
 
   nixConfig = {
     substituters = [
